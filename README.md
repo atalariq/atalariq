@@ -2,7 +2,7 @@
 Hello I'm Atalariq Barra, a Junior Highschool student from Indonesia who interest of code.
 
 <p align="center">
-  <b><a href="mailto:baraboyolali@gmail.com">E-Mail</a></b>
+  <b><a href="mailto:atalariq26@gmail.com">E-Mail</a></b>
   •
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 </p>
