@@ -1,5 +1,5 @@
-### Hi there, 👋
-Hello I'm Atalariq, a Senior Highschool student from Indonesia who interest of code.
+### Hi there 👋
+My name is Atalariq, Senior Highschool student from Indonesia who interest of code.
 Currently interesting to Competitive Programming and Flutter Development.
 
 <!--
