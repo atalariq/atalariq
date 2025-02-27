@@ -1,14 +1,16 @@
-### Hi there, I'm [Atalazer!](https://atalazer.github.io) 👋
-Hello I'm Atalariq Barra, a Senior Highschool student from Indonesia who interest of code.
+### Hi there, 👋
+Hello I'm Atalariq, a Senior Highschool student from Indonesia who interest of code.
 Currently interesting to Competitive Programming and Flutter Development.
 
+<!--
 <p align="center">
   <b><a href="mailto:atalariq26@gmail.com">E-Mail</a></b>
   •
-  <b><a href="https://instagram.com/atalazerrr">Instagram</a></b>
+  <b><a href="https://instagram.com/atalariqzzz_">Instagram</a></b>
   •
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 </p>
+-->
 
 <!-- Github Stats -->
 <!--
