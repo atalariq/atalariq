@@ -1,6 +1,4 @@
-### Hi there 👋
-My name is Atalariq, Senior Highschool student from Indonesia who interest of code.
-Currently interesting to Competitive Programming and Flutter Development.
+### Hi there, I'm Ariq 👋
 
 <!--
 <p align="center">
@@ -13,10 +11,8 @@ Currently interesting to Competitive Programming and Flutter Development.
 -->
 
 <!-- Github Stats -->
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=atalazer&show_icons=true" title="Atalazer's Github Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atalazer&layout=compact&langs_count=8&hide=html,css,scss" title="Top Languages" />
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=atalariq&show_icons=true" title="Atalazer's Github Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atalariq&layout=compact&langs_count=8&hide=html,css,scss" title="Top Languages" />
 
 <!-- Spotify -->
 <!--
