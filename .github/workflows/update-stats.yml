@@ -1,10 +1,15 @@
 name: Update TakaTime Stats
 
 on:
+  # Runs every midnight UTC
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight UTC
-  workflow_dispatch: # Allows manual trigger
-
+    - cron: "0 0 * * *"
+  # Allows to manually run the job at any time
+  workflow_dispatch:
+  # Run on every push on the main branch
+  push:
+    branches:
+    - main
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -25,4 +30,4 @@ jobs:
           MONGO_URI: ${{ secrets.MONGO_URI }}
           GIST_TOKEN: ${{ github.token }}
           TARGET_REPO: ${{ github.repository }}
-        run: ./taka-report -days=7
+        run: ./taka-report -days=7 -bg "#0d1117" -text "#00FF00" -subtext "#008800" -bar-bg "#111111" -c1 "#00FF00" -c2 "#00DD00" -c3 "#00AA00" -c4 "#005500"
